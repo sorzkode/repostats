@@ -1,12 +1,16 @@
 {
-    "Batchfile": 2248,
+    "Batchfile": 5547,
     "Jupyter Notebook": 29977,
-    "mIRC Script": 26932,
-    "Python": 95999,
+    "mIRC Script": 191780,
+    "HTML": 417265,
+    "Python": 168605,
+    "Rust": 740754,
+    "Shell": 20624,
+    "Makefile": 8711,
+    "Dockerfile": 690,
     "PHP": 23682,
-    "JavaScript": 18669,
-    "CSS": 9890,
+    "JavaScript": 23332,
+    "CSS": 29801,
     "PowerShell": 10307,
-    "HTML": 93884,
     "VBA": 7400
 }
